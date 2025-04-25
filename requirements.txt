@@ -1,0 +1,9 @@
+altair
+numpy
+pandas
+plotly
+scipy
+scikit-learn>=0.18
+streamlit
+
+yfinance
